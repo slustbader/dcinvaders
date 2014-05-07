@@ -1,0 +1,3 @@
+This is disgustingly old code that I inherited, and I haven't had time to upgrade it to use a modern language/database.
+
+Please don't judge me based on this...
