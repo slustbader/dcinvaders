@@ -1,0 +1,88 @@
+BODY {
+    font-family: sans-serif;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+TABLE, TD, TH, P, DIV, UL, OL {
+    font-size: 11pt;
+    color: #FFFFFF;
+}
+
+.RowHeaders {
+    font-size: 11pt;
+    color: black;
+    background-color: red;
+    font-weight: bold;
+}
+
+.RowContent1 {
+    font-size: 11pt;
+    color: black;
+    background-color: #000099;
+}
+
+.RowContent2 {
+    font-size: 11pt;
+    color: black;
+    background-color: #808080;
+}
+
+.RowHighlight {
+    font-size: 11pt;
+    color: black;
+    background-color: yellow;
+}
+
+.black {
+    color: black;
+}
+
+.white {
+    color: white;
+}
+
+a:link {
+    text-decoration: none;
+    color: #FF0000;
+}
+
+a:active {
+    color: #808080;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #FF0000;
+    text-decoration: none;
+}
+
+a: hover {
+    color: #FFFF66;
+    text-decoration: none;
+}
+
+BIG {
+    font-size: 120%;
+    font-weight: bold;
+}
+
+H1 {
+    font-size: 22pt;
+}
+
+H2 {
+    font-size: 18pt;
+}
+
+H3 {
+    font-size: 14pt;
+}
+
+SMALL {
+    font-size: 75%;
+}
+
+LI {
+    list-style-position: inside;
+}
