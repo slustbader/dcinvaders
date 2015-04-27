@@ -1,0 +1,1 @@
+Year font is 48pt Impact in color 25(R) 22(G) 233(B)
